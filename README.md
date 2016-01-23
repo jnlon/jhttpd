@@ -1,7 +1,7 @@
 # jhttpd
-jhttpd is an HTTP 1.1 compatible server written in Java, supporting threads, CGI, logging,
-and a simple text-file base configuration scheme. It also has includes a separate
-program "putpostget" to test various http actions. 
+jhttpd is an HTTP 1.1 compatible web server written in Java, supporting threads, CGI, logging,
+and a simple text-file based configuration scheme. It also includes a separate
+program "putpostget" to test various http methods. 
 
 This program was created in 2014 for a school project. Considering this, I
 would not recommend using this program for anything other than as an example
