@@ -1,0 +1,1 @@
+#!/bin/python#This was used to test POST requests#It can be used with the PutPostGet tool, #it will echo back whatever message you send in a post request!import sysinsys = sys.stdinfor line in insys:  print(line)

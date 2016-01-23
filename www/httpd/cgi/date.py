@@ -1,0 +1,1 @@
+#!/usr/bin/pythonimport datetimeprint("<html><body>A simple script that tells the time! The time is: <p>")print(datetime.datetime.today())print("</p></html>")
